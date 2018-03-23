@@ -1,0 +1,5 @@
+C:\Users\engen\Google Drive\projetos\socket-master\socket_client\bin\Debug\socket_client.exe.config
+C:\Users\engen\Google Drive\projetos\socket-master\socket_client\bin\Debug\socket_client.exe
+C:\Users\engen\Google Drive\projetos\socket-master\socket_client\bin\Debug\socket_client.pdb
+C:\Users\engen\Google Drive\projetos\socket-master\socket_client\obj\Debug\socket_client.exe
+C:\Users\engen\Google Drive\projetos\socket-master\socket_client\obj\Debug\socket_client.pdb

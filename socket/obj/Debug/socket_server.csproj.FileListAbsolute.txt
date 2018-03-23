@@ -1,0 +1,6 @@
+C:\Users\engen\Google Drive\projetos\socket-master\socket\bin\Debug\socket.exe.config
+C:\Users\engen\Google Drive\projetos\socket-master\socket\bin\Debug\socket.exe
+C:\Users\engen\Google Drive\projetos\socket-master\socket\bin\Debug\socket.pdb
+C:\Users\engen\Google Drive\projetos\socket-master\socket\obj\Debug\socket_server.csprojResolveAssemblyReference.cache
+C:\Users\engen\Google Drive\projetos\socket-master\socket\obj\Debug\socket.exe
+C:\Users\engen\Google Drive\projetos\socket-master\socket\obj\Debug\socket.pdb
