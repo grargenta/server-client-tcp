@@ -1,4 +1,4 @@
 # socket
 
-C# socket server and client test program
+C# socket server and client for a test program
 ---
